@@ -1,4 +1,4 @@
-This is a project on Sharing Bike demand Prediction
+This is a project of Sharing Bike demand Prediction
 
 Final reports and code can be viewed in the reports and src folder.
 
